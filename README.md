@@ -20,6 +20,8 @@ For this assignment, I used the Hugging Face Inference API with an open-source m
 pip install requests
 
 ---
+## Experiments and Outputs 
+---
 ### Experiment 1
 **Input:** Explain AI simply  
 
