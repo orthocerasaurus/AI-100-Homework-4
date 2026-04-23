@@ -44,3 +44,10 @@ Once there was a small robot named Echo who lived in a quiet laboratory. Echo wa
 1. Create a study schedule and stick to it.  
 2. Break large tasks into smaller sections to avoid stress.  
 3. Study in a quiet place without distractions like your phone.
+
+## Observations
+
+- The model produces more detailed responses when prompts are specific.
+- Simple prompts result in general explanations.
+- The output format changes depending on the task type (explanation vs story vs list).
+- The model follows instruction words like "explain", "write", and "give" closely.
