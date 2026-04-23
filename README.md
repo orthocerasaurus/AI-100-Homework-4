@@ -16,7 +16,6 @@ For this assignment, I used the Hugging Face Inference API with an open-source m
 ## Setup Instructions
 
 ### 1. Install dependencies
-```bash
 pip install requests
 
 ---
