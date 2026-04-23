@@ -19,7 +19,7 @@ For this assignment, I used the Hugging Face Inference API with an open-source m
 ```bash
 pip install requests
 
-
+---
 ### Experiment 1
 **Input:** Explain AI simply  
 
